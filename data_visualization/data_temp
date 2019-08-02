@@ -1,0 +1,49 @@
+{
+	"_id" : ObjectId("5d42b58a2fa0585920fefec6"),
+	"year" : "2019",
+	"is_new_tv" : false,
+	"description" : "",
+	"title" : "破冰行动",
+	"interest" : null,
+	"info" : "中国大陆 / 剧情 犯罪 悬疑 / 傅东育 / 黄景瑜 吴刚",
+	"release_date" : "05.07",
+	"recommend_comment" : "以汕尾博社村为原型改编的，当初这个仅仅1.4万人口，占地才20多平方公里的小村子，有着18个特大制毒团伙，77个制毒工厂，整个博社村在生产最高峰的时候冰毒产量占了全国的40%，想想真是太恐怖了。政府为了彻底地清剿掉这个毒品窝点，出动了武警3000多名，甚至还出动了海警和空警，三位一体式围剿，终于彻底端掉了这个毒品窝。最近最期待的是这部剧，有吴刚、王劲松、任达华这三个戏骨，期待值简直就是要满分。 —— 江湖里的一只鱼的短评",
+	"subtype" : "",
+	"url" : "https://www.douban.com/doubanapp/dispatch/movie/27052168",
+	"null_rating_reason" : "",
+	"price" : null,
+	"cover" : {
+		"height" : 1920,
+		"shape" : "rectangle",
+		"width" : 1080,
+		"url" : "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2556232270.jpg"
+	},
+	"total" : 50,
+	"label" : null,
+	"uri" : "douban://douban.com/tv/27052168",
+	"reviewer_name" : "",
+	"actors" : [
+		"黄景瑜",
+		"吴刚",
+		"王劲松"
+	],
+	"rating" : {
+		"value" : 6.9,
+		"count" : 123351,
+		"max" : 10
+	},
+	"has_linewatch" : true,
+	"directors" : [
+		"傅东育"
+	],
+	"actions" : [ ],
+	"tv_category" : "chinese",
+	"card_subtitle" : "2019 / 中国大陆 / 剧情 犯罪 悬疑 / 傅东育 刘璋牧 / 黄景瑜 吴刚",
+	"parse_url" : "https://m.douban.com/rexxar/api/v2/subject_collection/tv_domestic/items?count=18&start=0",
+	"date" : null,
+	"tv_url_parameter" : "tv_domestic",
+	"type" : "tv",
+	"original_price" : null,
+	"id" : "27052168",
+	"forum_info" : null
+}
